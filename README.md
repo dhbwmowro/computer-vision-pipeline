@@ -21,7 +21,11 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/dhbwmowro/computer-vision-pipeline/total) ![Contributors](https://img.shields.io/github/contributors/dhbwmowro/computer-vision-pipeline?color=dark-green) ![Forks](https://img.shields.io/github/forks/dhbwmowro/computer-vision-pipeline?style=social) ![Issues](https://img.shields.io/github/issues/dhbwmowro/computer-vision-pipeline) ![License](https://img.shields.io/github/license/dhbwmowro/computer-vision-pipeline) 
+![Python version](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue.svg)
+![Contributors](https://img.shields.io/github/contributors/dhbwmowro/computer-vision-pipeline?color=dark-green)
+![Forks](https://img.shields.io/github/forks/dhbwmowro/computer-vision-pipeline?style=social)
+![Issues](https://img.shields.io/github/issues/dhbwmowro/computer-vision-pipeline)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/dhbwmowro/computer-vision-pipeline/blob/master/LICENCE)
 
 ## Table Of Contents
 

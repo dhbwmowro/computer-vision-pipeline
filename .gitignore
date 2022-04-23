@@ -160,3 +160,4 @@ venv.bak/
 
 # ipython
 .ipython
+.vscode/settings.json
